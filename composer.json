@@ -11,6 +11,14 @@
             "email": "daniel.p.carbone@gmail.com"
         }
     ],
+    
+    "keywords": [
+        "xml",
+        "primitive",
+        "primitives",
+        "factory",
+        "xsd"
+    ],
 
     "require": {
         "php": ">=5.3.3",
