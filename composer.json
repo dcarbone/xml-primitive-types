@@ -1,7 +1,7 @@
 {
     "name": "dcarbone/xml-primitive-types",
     "description": "Library containing PHP classes for XML Primitives and Derived Primitives",
-    "license": "GPL-2.0",
+    "license": "Apache-2.0",
 
     "homepage": "https://github.com/dcarbone/xml-primitive-types",
 
