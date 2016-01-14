@@ -25,7 +25,7 @@ abstract class XMLPrimitiveTypeCacheGenerator
                 $ns = 'DCarbone\\XMLPrimitiveTypes\\Types\\Derived\\';
 
             $classname = substr(basename($classFile), 0, -4);
-            if (false === strpos($classname, 'Abstract'))
+            if (false === strpos($classname, 'Abstract') && false === strpos($classname, 'Interface'))
             {
                 /** @var \DCarbone\XMLPrimitiveTypes\Types\AbstractXMLPrimitiveType $obj */
 
